@@ -1,0 +1,14 @@
+<html>
+
+    <script>
+        var alvo = '11a22b33c';
+        var expe  = new RegExp('(\\d\\d)(\\w)', 'g');
+        var resultado = null;
+
+        while (resultado = expe.exec(alvo)) {
+            console.log(resultado); 
+        }
+       
+    </script>
+
+</html>
