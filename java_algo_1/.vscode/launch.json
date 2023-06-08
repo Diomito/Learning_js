@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://D:\\Program Files\\node.exe .\\2360-algoritmos-js-II-arquivos-base\\arquivos-base\\aula-3\\encontramenor.js",
+            "request": "launch",
+            "url": "http://D:\\Program Files\\node.exe .\\2360-algoritmos-js-II-arquivos-base\\arquivos-base\\aula-3\\encontramenor.js"
+        }
+    ]
+}
